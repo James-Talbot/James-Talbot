@@ -1,11 +1,14 @@
+### A Bit About Me :chart:
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate developer from Galway Ireland</h3>
+<h3 align="center">A passionate developer from Galway Ireland :round_pushpin: </h3>
 
+### Socials :calling:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/james-talbot-453b5a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james talbot" height="50" width="60" /></a>
 </p>
 
+### Skills :seedling:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
