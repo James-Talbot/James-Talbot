@@ -5,13 +5,14 @@
 
 ## Socials :calling:
 <p align="left">
-<a href="https://www.linkedin.com/in/james-talbot-453b5a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james talbot" height="40" width="40" /></a>
+
+<a href="[https://www.Google.com](https://www.linkedin.com/in/james-talbot-453b5a203/)">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 </p>
 
 <br>
 
 ## Skills :seedling:
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,bootstrap,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet,bootstrap,postgres)](https://skillicons.dev)
 
 <br>
 
