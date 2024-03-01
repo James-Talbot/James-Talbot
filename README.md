@@ -6,7 +6,7 @@
 ## Socials :calling:
 <p align="left">
 
-<a href="[https://www.Google.com](https://www.linkedin.com/in/james-talbot-453b5a203/)">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/james-talbot-453b5a203/)
 </p>
 
 <br>
