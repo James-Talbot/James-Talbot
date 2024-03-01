@@ -3,14 +3,6 @@
 
 <br>
 
-## Socials :calling:
-<p align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/james-talbot-453b5a203/](https://www.linkedin.com/in/james-talbot-453b5a203/))
-</p>
-
-<br>
-
 ## Skills :seedling:
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,dotnet,bootstrap,postgres)](https://skillicons.dev)
 
