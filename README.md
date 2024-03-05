@@ -8,4 +8,8 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=james-talbot&show_icons=true&locale=en&layout=compact" alt="james-talbot" /></p>
+<div class="container" style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=James-Talbot&show_icons=true&theme=vue-dark" />
+  &nbsp;
+ <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-Talbot&theme=vue-dark" />
+</div>
