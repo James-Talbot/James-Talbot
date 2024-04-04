@@ -8,6 +8,7 @@
 
 <br>
 
+## Stats :bar_chart:
 <div class="container" style="display: flex; flex-direction: row;">
  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=James-Talbot&show_icons=true&theme=vue-dark" />
   &nbsp;
