@@ -4,7 +4,7 @@
 <br>
 
 ## Skills :seedling:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,bootstrap,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,tailwind,bootstrap,postgres)](https://skillicons.dev)
 
 <br>
 
